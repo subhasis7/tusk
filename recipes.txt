@@ -3,4 +3,8 @@ hp
 lenovo
 sony
 asus
+
+nokia
+samsung
+
 thank u
